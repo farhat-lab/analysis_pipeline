@@ -1,6 +1,6 @@
 # Analysis Pipeline
 
-Input: A user query in the form of country, lineage, drug OR a range of country, lineage, drugs to run pipeline on
+Input: A user query in the form of country, lineage, drug OR a range of country, lineage, drugs to run pipeline on \n
 Output: SNP alignment file,.tree files for the respective input from BEAST with node ages, and bootstrap consensus tree
 
 ### Running The Pipeline
