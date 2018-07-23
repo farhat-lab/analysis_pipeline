@@ -1,0 +1,473 @@
+country	lineage	drug	distribution	number	length
+Uzbekistan	lineage2	AMIKACIN	99	190	3151
+
+Moldova	lineage2	ETHAMBUTOL	100	15	1735
+
+South Africa	lineage2	ETHIONAMIDE	170	118	2683
+
+Uzbekistan	lineage2	OFLOXACIN	140	191	3153
+
+Germany	lineage1	STREPTOMYCIN	158	48	9731
+
+Germany	lineage2	PYRAZINAMIDE	165	56	5879
+
+Germany	lineage2	ETHAMBUTOL	172	57	5897
+
+South Korea	lineage2	MOXIFLOXACIN	172	14	2363
+
+Sierra Leone	lineage6	STREPTOMYCIN	173	14	3306
+
+China	lineage4	ISONIAZID	178	36	5694
+
+Netherlands	lineage4	ISONIAZID	193	61	3524
+
+United Kingdom	lineage2	AMIKACIN	194	22	2412
+
+Russia	lineage2	ETHIONAMIDE	194	6	1318
+
+South Korea	lineage2	AMIKACIN	195	21	2955
+
+Mali	lineage4	RIFAMPICIN	197	24	3208
+
+Sierra Leone	lineage5	PYRAZINAMIDE	197	7	2520
+
+South Africa	lineage1	OFLOXACIN	197	12	2654
+
+Belarus	lineage2	PARA-AMINOSALICYLIC_ACID	198	6	1322
+
+South Korea	lineage1	ETHIONAMIDE	198	5	2363
+
+United Kingdom	lineage4	CAPREOMYCIN	201	27	4542
+
+Moldova	lineage4	ETHAMBUTOL	202	35	2059
+
+Romania	lineage4	STREPTOMYCIN	204	25	3746
+
+Malawi	lineage3	RIFAMPICIN	210	148	3803
+
+United Kingdom	lineage4	MOXIFLOXACIN	212	25	4443
+
+Sierra Leone	lineage6	ETHAMBUTOL	212	14	3306
+
+South Africa	lineage3	ETHIONAMIDE	212	4	1444
+
+Peru	lineage2	AMIKACIN	217	69	3102
+
+South Korea	lineage3	ETHAMBUTOL	218	11	1614
+
+South Africa	lineage3	ISONIAZID	219	28	2380
+
+Germany	lineage2	AMIKACIN	219	5	1661
+
+Turkmenistan	lineage2	ISONIAZID	219	10	1805
+
+Peru	lineage2	KANAMYCIN	223	67	3070
+
+United Kingdom	lineage2	ISONIAZID	230	113	6871
+
+Germany	lineage2	CAPREOMYCIN	230	6	1672
+
+United Kingdom	lineage4	OFLOXACIN	232	25	4443
+
+Peru	lineage2	ETHIONAMIDE	235	61	2981
+
+Iran	lineage2	ETHIONAMIDE	235	9	1448
+
+South Korea	lineage3	CAPREOMYCIN	235	16	1916
+
+South Korea	lineage1	CAPREOMYCIN	235	5	2363
+
+United Kingdom	lineage3	MOXIFLOXACIN	236	25	4410
+
+India	lineage2	ETHAMBUTOL	236	14	2162
+
+Sierra Leone	lineage4	ETHAMBUTOL	244	55	6213
+
+Belarus	lineage2	ETHIONAMIDE	244	6	1322
+
+United Kingdom	lineage2	CIPROFLOXACIN	244	22	2707
+
+Peru	lineage2	ISONIAZID	248	70	3351
+
+Malawi	lineage3	ISONIAZID	246	148	3803
+
+Iran	lineage2	KANAMYCIN	246	9	1448
+
+Sierra Leone	lineage6	PYRAZINAMIDE	247	14	3306
+
+Romania	lineage4	AMIKACIN	248	25	3746
+
+South Africa	lineage3	OFLOXACIN	249	25	2380
+
+Germany	lineage2	RIFAMPICIN	251	57	5897
+
+Belarus	lineage2	CYCLOSERINE	251	6	1322
+
+Belarus	lineage2	CAPREOMYCIN	251	6	1322
+
+Swaziland	lineage2	RIFAMPICIN	251	10	1807
+
+Germany	lineage1	ISONIAZID	258	48	9731
+
+Peru	lineage2	RIFABUTIN	260	66	3058
+
+India	lineage3	STREPTOMYCIN	260	10	2237
+
+South Africa	lineage2	NICOTINAMIDE	260	11	1629
+
+Germany	lineage1	PYRAZINAMIDE	267	48	9731
+
+Germany	lineage2	PROTHIONAMIDE	267	18	3025
+
+Uzbekistan	lineage2	CAPREOMYCIN	241	190	3150
+
+South Korea	lineage2	ETHIONAMIDE	242	21	2955
+
+Uganda	lineage4	RIFAMPICIN	242	10	2146
+
+Uganda	lineage4	RIFABUTIN	242	7	1782
+
+United Kingdom	lineage3	STREPTOMYCIN	247	95	10214
+
+Mali	lineage4	STREPTOMYCIN	247	22	3199
+
+United Kingdom	lineage2	STREPTOMYCIN	248	50	4503
+
+Belarus	lineage2	AMIKACIN	248	6	1322
+
+Turkmenistan	lineage2	STREPTOMYCIN	248	10	1805
+
+Uganda	lineage4	PYRAZINAMIDE	248	4	1050
+
+South Korea	lineage3	ETHIONAMIDE	248	16	1916
+
+South Africa	lineage3	STREPTOMYCIN	249	24	2367
+
+South Africa	lineage3	PYRAZINAMIDE	249	21	2302
+
+United Kingdom	lineage3	OFLOXACIN	250	25	4410
+
+Sierra Leone	lineage5	ISONIAZID	250	7	2520
+
+China	lineage4	OFLOXACIN	251	36	5694
+
+South Africa	lineage1	KANAMYCIN	252	12	2654
+
+Uganda	lineage4	ETHIONAMIDE	252	9	2045
+
+Mali	lineage4	ETHAMBUTOL	252	23	3205
+
+United Kingdom	lineage6	ISONIAZID	252	5	2713
+
+Brazil	lineage4	STREPTOMYCIN	252	5	1245
+
+Turkmenistan	lineage2	PYRAZINAMIDE	252	10	1805
+
+South Africa	lineage4	CIPROFLOXACIN	253	25	2221
+
+South Africa	lineage2	PARA-AMINOSALICYLIC_ACID	255	95	2136
+
+United Kingdom	lineage2	ETHAMBUTOL	258	110	6781
+
+South Africa	lineage1	ETHAMBUTOL	258	9	2585
+
+Iran	lineage2	AMIKACIN	258	9	1448
+
+Germany	lineage2	OFLOXACIN	258	6	1727
+
+Sierra Leone	lineage4	ISONIAZID	262	55	6213
+
+Peru	lineage2	STREPTOMYCIN	264	70	3345
+
+South Africa	lineage4	CYCLOSERINE	264	18	2109
+
+Peru	lineage2	CAPREOMYCIN	265	61	2998
+
+South Korea	lineage2	KANAMYCIN	266	21	2955
+
+Peru	lineage2	PYRAZINAMIDE	267	60	2876
+
+Malawi	lineage3	ETHAMBUTOL	267	32	2025
+
+Germany	lineage2	ISONIAZID	268	57	5897
+
+Netherlands	lineage4	STREPTOMYCIN	271	61	3524
+
+South Korea	lineage2	STREPTOMYCIN	272	19	2851
+
+United Kingdom	lineage2	RIFAMPICIN	273	111	6762
+
+Sierra Leone	lineage4	PYRAZINAMIDE	277	55	6213
+
+Uganda	lineage4	ISONIAZID	277	8	2063
+
+Uganda	lineage4	OFLOXACIN	277	10	2146
+
+South Africa	lineage1	PYRAZINAMIDE	277	7	2574
+
+India	lineage3	ISONIAZID	277	10	2237
+
+Iran	lineage2	CAPREOMYCIN	277	9	1448
+
+South Africa	lineage3	ETHAMBUTOL	277	26	2382
+
+United Kingdom	lineage2	KANAMYCIN	277	22	2412
+
+United Kingdom	lineage2	CAPREOMYCIN	277	22	2412
+
+Malawi	lineage1	STREPTOMYCIN	281	47	5604
+
+Uganda	lineage4	ETHAMBUTOL	281	9	2087
+
+China	lineage4	STREPTOMYCIN	282	36	5694
+
+China	lineage4	RIFAMPICIN	283	36	5694
+
+Romania	lineage4	OFLOXACIN	284	25	3746
+
+Russia	lineage2	PARA-AMINOSALICYLIC_ACID	284	7	1326
+
+United Kingdom	lineage2	MOXIFLOXACIN	284	22	2412
+
+Uzbekistan	lineage4	CAPREOMYCIN	285	27	3619
+
+Russia	lineage2	PROTHIONAMIDE	285	5	1305
+
+South Korea	lineage2	CYCLOSERINE	285	20	2912
+
+South Korea	lineage2	RIFABUTIN	285	20	2912
+
+Uzbekistan	lineage4	ETHAMBUTOL	287	38	4242
+
+Germany	lineage3	STREPTOMYCIN	288	56	7623
+
+Uzbekistan	lineage2	PYRAZINAMIDE	264	222	3492
+
+Sierra Leone	lineage6	RIFAMPICIN	264	14	3306
+
+India	lineage2	STREPTOMYCIN	264	14	2162
+
+China	lineage4	ETHIONAMIDE	265	35	5450
+
+Germany	lineage2	CYCLOSERINE	265	4	1628
+
+Uzbekistan	lineage2	ETHIONAMIDE	265	19	1625
+
+Russia	lineage2	ETHAMBUTOL	265	6	1314
+
+South Africa	lineage1	RIFAMPICIN	265	12	2654
+
+Belarus	lineage2	KANAMYCIN	265	6	1322
+
+Germany	lineage3	ISONIAZID	266	56	7623
+
+United Kingdom	lineage2	OFLOXACIN	266	21	2365
+
+Turkmenistan	lineage2	RIFAMPICIN	266	10	1805
+
+Sierra Leone	lineage5	ETHAMBUTOL	266	7	2520
+
+United Kingdom	lineage2	PYRAZINAMIDE	268	114	6855
+
+Peru	lineage2	ETHAMBUTOL	269	69	3333
+
+Romania	lineage4	KANAMYCIN	269	25	3746
+
+United Kingdom	lineage1	STREPTOMYCIN	275	65	12487
+
+South Africa	lineage3	RIFAMPICIN	275	28	2380
+
+United Kingdom	lineage3	CIPROFLOXACIN	278	87	9889
+
+China	lineage4	CAPREOMYCIN	278	36	5694
+
+Uganda	lineage4	STREPTOMYCIN	278	10	2146
+
+South Africa	lineage2	CYCLOSERINE	280	95	2136
+
+China	lineage4	KANAMYCIN	280	36	5694
+
+South Africa	lineage1	ISONIAZID	280	11	2590
+
+Moldova	lineage4	RIFAMPICIN	281	35	2059
+
+South Africa	lineage1	STREPTOMYCIN	281	12	2654
+
+China	lineage4	ETHAMBUTOL	281	36	5694
+
+Uzbekistan	lineage4	AMIKACIN	282	27	3619
+
+Germany	lineage2	STREPTOMYCIN	283	56	5827
+
+Peru	lineage2	RIFAMPICIN	283	67	3153
+
+South Africa	lineage2	MOXIFLOXACIN	289	198	4197
+
+Sierra Leone	lineage5	STREPTOMYCIN	289	7	2520
+
+Sierra Leone	lineage4	STREPTOMYCIN	291	55	6213
+
+China	lineage2	STREPTOMYCIN	293	127	11670
+
+Sierra Leone	lineage6	ISONIAZID	293	14	3306
+
+South Africa	lineage4	NICOTINAMIDE	294	59	3579
+
+Turkmenistan	lineage2	PROTHIONAMIDE	294	10	1805
+
+Sierra Leone	lineage4	RIFAMPICIN	296	55	6213
+
+Brazil	lineage4	ISONIAZID	296	5	1245
+
+Uzbekistan	lineage4	PYRAZINAMIDE	297	38	4242
+
+Russia	lineage2	PYRAZINAMIDE	297	7	1326
+
+Turkmenistan	lineage2	ETHAMBUTOL	297	10	1805
+
+India	lineage2	RIFAMPICIN	297	14	2162
+
+Mali	lineage4	ISONIAZID	297	25	3210
+
+Netherlands	lineage2	STREPTOMYCIN	297	19	1750
+
+United Kingdom	lineage5	ISONIAZID	298	10	2930
+
+South Africa	lineage4	PYRAZINAMIDE	353	329	17269
+
+United Kingdom	lineage4	PYRAZINAMIDE	495	751	40387
+
+United Kingdom	lineage3	PYRAZINAMIDE	466	630	37895
+
+Belarus	lineage4	CYCLOSERINE	466	3	1209
+
+Peru	lineage4	ETHIONAMIDE	495	756	20989
+
+Peru	lineage4	RIFAMPICIN	513	780	21634
+
+United Kingdom	lineage4	STREPTOMYCIN	514	156	15839
+
+South Africa	lineage2	ISONIAZID	511	236	4536
+
+United Kingdom	lineage3	ISONIAZID	495	631	38025
+
+Malawi	lineage4	ISONIAZID	480	861	19682
+
+Malawi	lineage4	PYRAZINAMIDE	480	182	8594
+
+China	lineage2	ETHIONAMIDE	479	110	10345
+
+United Kingdom	lineage4	ISONIAZID	501	757	40579
+
+China	lineage2	ISONIAZID	500	127	11670
+
+United Kingdom	lineage3	RIFAMPICIN	490	631	38025
+
+South Africa	lineage4	MOXIFLOXACIN	493	333	17675
+
+United Kingdom	lineage4	ETHAMBUTOL	509	754	40640
+
+Germany	lineage4	STREPTOMYCIN	515	582	42056
+
+South Africa	lineage2	STREPTOMYCIN	514	234	4583
+
+United Kingdom	lineage1	ETHAMBUTOL	517	257	32439
+
+Belarus	lineage4	ETHAMBUTOL	517	3	1209
+
+Uzbekistan	lineage2	ETHAMBUTOL	514	223	3431
+
+South Africa	lineage2	KANAMYCIN	513	223	4369
+
+Germany	lineage4	ETHAMBUTOL	519	582	42056
+
+South Africa	lineage2	AMIKACIN	518	186	3981
+
+United Kingdom	lineage4	CIPROFLOXACIN	518	127	10569
+
+South Africa	lineage2	CAPREOMYCIN	517	205	4191
+
+Peru	lineage4	ETHAMBUTOL	521	733	20690
+
+China	lineage2	OFLOXACIN	521	121	11198
+
+Malawi	lineage4	RIFAMPICIN	511	861	19682
+
+South Africa	lineage2	PYRAZINAMIDE	511	189	4028
+
+Belarus	lineage4	AMIKACIN	511	3	1209
+
+Malawi	lineage1	ISONIAZID	512	189	10418
+
+South Africa	lineage4	KANAMYCIN	514	439	19458
+
+China	lineage2	CAPREOMYCIN	514	121	11198
+
+Germany	lineage4	PYRAZINAMIDE	518	581	41994
+
+Belarus	lineage4	CAPREOMYCIN	518	3	1209
+
+United Kingdom	lineage4	RIFAMPICIN	526	754	40573
+
+Peru	lineage4	KANAMYCIN	529	786	21422
+
+China	lineage2	RIFAMPICIN	529	127	11670
+
+United Kingdom	lineage3	ETHAMBUTOL	523	630	37997
+
+Belarus	lineage4	KANAMYCIN	523	3	1209
+
+United Kingdom	lineage1	PYRAZINAMIDE	525	256	32669
+
+Peru	lineage4	PYRAZINAMIDE	528	727	21231
+
+South Africa	lineage4	RIFAMPICIN	529	448	19309
+
+United Kingdom	lineage1	ISONIAZID	531	257	32500
+
+China	lineage2	KANAMYCIN	531	118	10979
+
+Belarus	lineage4	RIFAMPICIN	531	3	1209
+
+South Africa	lineage4	OFLOXACIN	532	434	19463
+
+South Africa	lineage4	ETHAMBUTOL	533	434	19336
+
+Peru	lineage4	CAPREOMYCIN	535	767	21086
+
+Germany	lineage4	ISONIAZID	538	581	41967
+
+South Africa	lineage2	ETHAMBUTOL	537	229	4513
+
+South Africa	lineage4	STREPTOMYCIN	538	442	19470
+
+South Africa	lineage2	RIFAMPICIN	537	229	4402
+
+Peru	lineage4	AMIKACIN	539	798	21649
+
+United Kingdom	lineage1	RIFAMPICIN	540	258	32599
+
+South Africa	lineage2	OFLOXACIN	539	229	4528
+
+China	lineage2	ETHAMBUTOL	539	127	11670
+
+Peru	lineage4	STREPTOMYCIN	540	721	20958
+
+Malawi	lineage4	STREPTOMYCIN	540	211	9323
+
+Belarus	lineage4	STREPTOMYCIN	540	3	1209
+
+South Africa	lineage4	ETHIONAMIDE	540	100	5658
+
+South Africa	lineage4	AMIKACIN	540	313	17185
+
+Belarus	lineage4	ETHIONAMIDE	540	3	1209
+
+South Africa	lineage4	ISONIAZID	541	464	19480
+
+South Africa	lineage4	CAPREOMYCIN	542	398	18893
+
+Germany	lineage4	RIFAMPICIN	544	583	42173
+
+Peru	lineage4	RIFABUTIN	545	777	21428
+
